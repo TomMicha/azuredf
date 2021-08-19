@@ -1,0 +1,501 @@
+cityId,source,sourceKey,sourceId,city,state,country,created,updated
+1,source5,id,#48c472,Líbano,,Colombia,2020-12-14T02:44:51,2021-01-12T13:55:18
+2,source2,addressID,#4ed0dd,Al Ḩīlah,,Palestinian Territory,2021-04-24T04:47:35,2021-02-19T22:18:00
+3,source3,locationID,#0cd66e,Ortiga,14,Portugal,2021-02-04T15:07:47,2021-01-03T02:02:32
+4,source1,id,#f5fbae,Boituva,,Brazil,2020-11-19T13:24:44,2021-01-12T04:21:53
+5,source2,addressID,#f13092,Nanjie,,China,2021-03-29T05:43:29,2021-06-29T08:27:23
+6,source2,id,#e75c04,Jialu,,China,2020-12-02T21:31:30,2020-11-16T02:44:56
+7,source5,locationID,#81682f,Makamba,,Burundi,2021-02-03T20:23:17,2020-12-20T05:55:29
+8,source4,addressID,#75cc19,Yaozhou,,China,2021-07-11T19:08:31,2021-08-12T03:39:52
+9,source5,id,#261c26,Rominimbang,,Philippines,2021-05-12T21:30:50,2020-12-12T21:38:29
+10,source1,id,#f0ab06,Savyon,,Israel,2021-06-13T14:06:17,2020-11-26T08:48:28
+11,source4,id,#86fc52,Wuli,,China,2021-07-08T09:16:54,2021-01-03T14:42:01
+12,source1,id,#2f6c64,Tiannan,,China,2021-01-19T06:53:04,2020-08-30T20:46:08
+13,source2,id,#ac20cd,Stalbe,,Latvia,2021-04-14T21:28:58,2021-07-12T12:42:21
+14,source3,id,#0b87fa,Cipeundeuy,,Indonesia,2020-11-26T00:34:23,2021-04-01T06:35:40
+15,source3,id,#b002c9,Champaign,IL,United States,2021-04-23T13:59:31,2020-11-28T21:27:44
+16,source5,addressID,#f77bbc,Tétouan,,Morocco,2020-08-21T04:21:14,2021-06-28T01:30:57
+17,source4,addressID,#17f9f6,San Cristóbal Totonicapán,,Guatemala,2021-04-18T12:49:44,2021-06-25T16:17:55
+18,source4,id,#3c8a87,Hidalgo,CHP,Mexico,2021-04-11T04:45:02,2020-08-23T23:10:24
+19,source1,addressID,#4f01cf,Jembangan,,Indonesia,2021-03-08T21:23:14,2021-07-23T14:41:17
+20,source5,id,#c9614c,Ciengang,,Indonesia,2021-06-02T03:33:45,2021-05-28T20:00:02
+21,source3,locationID,#4c5413,Chengmen,,China,2021-08-17T03:59:05,2021-06-19T03:07:32
+22,source2,addressID,#33a268,Liloan,,Philippines,2020-10-23T10:10:44,2021-01-27T08:12:31
+23,source5,id,#d70ea5,Depok,,Indonesia,2020-09-07T22:16:50,2020-11-28T04:42:05
+24,source1,addressID,#ee477c,Shuimen,,China,2021-04-25T13:07:37,2021-03-01T14:16:49
+25,source2,addressID,#e45775,Tullinge,AB,Sweden,2020-12-16T22:00:32,2021-01-02T23:37:26
+26,source3,id,#a69846,Matara,,Sri Lanka,2020-10-01T08:48:23,2021-05-27T09:27:38
+27,source1,id,#e69a65,Oranzherei,,Russia,2021-08-04T12:48:23,2020-11-13T15:29:33
+28,source1,locationID,#8d8a22,Bené Beraq,,Israel,2020-11-15T04:23:07,2020-11-08T00:33:02
+29,source2,addressID,#bab562,Goght’,,Armenia,2021-02-16T23:46:08,2021-05-03T04:06:14
+30,source2,locationID,#6c435d,Bacacay,,Philippines,2021-05-31T19:44:19,2020-10-19T20:38:07
+31,source2,addressID,#20a77c,Maciejowice,,Poland,2020-09-19T22:26:02,2021-07-05T08:28:37
+32,source4,addressID,#dd4d5b,Qiujia,,China,2021-01-21T06:39:48,2021-01-20T01:28:05
+33,source2,locationID,#a61d04,Bogotá,,Colombia,2021-04-17T05:02:23,2020-11-03T20:41:29
+34,source5,locationID,#c37fe4,Luhačovice,,Czech Republic,2021-03-13T15:47:04,2020-08-31T18:42:03
+35,source5,addressID,#dcd454,Lužani,,Croatia,2021-02-05T21:24:43,2021-06-01T11:36:16
+36,source2,id,#3445fd,Cafe,,Philippines,2020-12-29T09:52:56,2020-11-25T00:15:29
+37,source3,addressID,#c8cda7,Bang Rakam,,Thailand,2021-06-26T02:59:41,2021-02-26T09:03:22
+38,source3,locationID,#5cd02b,Capão da Canoa,,Brazil,2021-03-17T08:52:17,2021-04-18T02:45:12
+39,source1,id,#375917,Södertälje,AB,Sweden,2020-08-29T22:25:04,2020-11-13T19:00:24
+40,source3,locationID,#fcbc1b,Bailai,,China,2021-01-18T20:13:40,2021-05-18T13:37:04
+41,source4,addressID,#d04b9f,Boisbriand,QC,Canada,2020-08-28T07:12:44,2021-06-10T03:27:00
+42,source2,id,#cc8e5a,Cheongju-si,,South Korea,2021-06-28T04:01:26,2020-09-01T18:36:01
+43,source1,id,#279e58,Chatan,,Japan,2021-07-18T02:28:10,2021-05-12T22:36:11
+44,source4,id,#d17d75,Lille,B4,France,2020-10-28T10:43:27,2020-09-23T04:13:27
+45,source5,addressID,#750eb9,San José de Barlovento,,Venezuela,2021-02-25T07:56:17,2021-03-12T22:20:15
+46,source4,id,#bdb284,Židlochovice,,Czech Republic,2021-05-15T19:54:40,2021-08-05T16:18:17
+47,source4,addressID,#b60af6,San Marcos,,Colombia,2021-07-20T07:14:10,2020-09-20T13:42:26
+48,source5,addressID,#ee6fee,Markaz-e Woluswalī-ye Āchīn,,Afghanistan,2021-03-28T12:43:24,2021-01-18T06:02:02
+49,source2,id,#3eb242,Chishmy,,Russia,2021-06-27T18:28:42,2020-11-17T11:05:47
+50,source2,id,#29728e,Ipís,,Costa Rica,2021-02-12T14:08:11,2021-02-25T15:03:34
+51,source2,id,#9d22f1,Basseterre,,Saint Kitts and Nevis,2021-05-18T20:42:33,2021-08-05T14:09:16
+52,source1,locationID,#0c9416,Balfour,,South Africa,2021-01-28T12:32:58,2021-07-09T11:30:17
+53,source3,id,#ce5e73,Apucarana,,Brazil,2020-11-12T06:16:39,2021-01-21T20:17:23
+54,source1,id,#e878e2,Angono,,Philippines,2021-06-14T06:28:16,2020-11-19T23:16:36
+55,source4,id,#16fb6b,Fagatogo,,American Samoa,2020-09-27T17:56:05,2020-08-27T00:33:54
+56,source4,addressID,#1ee0ca,Ciudad Sandino,,Nicaragua,2021-02-15T17:56:08,2021-03-20T14:20:41
+57,source5,locationID,#b0e96d,Manggissari,,Indonesia,2020-09-12T15:11:40,2021-07-22T20:32:24
+58,source1,addressID,#7a8471,Jampang Tengah,,Indonesia,2021-04-19T01:27:38,2021-01-20T08:45:45
+59,source3,addressID,#683935,Abhar,,Iran,2021-01-28T10:28:23,2021-07-18T22:47:02
+60,source4,id,#5b2951,Orël,,Russia,2021-01-04T13:48:35,2020-09-26T17:12:15
+61,source4,id,#abd226,Rungis,A8,France,2020-10-30T22:23:24,2020-10-20T21:39:58
+62,source2,id,#d3e222,Samālūţ,,Egypt,2021-05-30T04:54:52,2020-11-13T10:03:15
+63,source1,id,#ca5587,Péplos,,Greece,2021-03-12T05:14:57,2021-01-12T08:09:40
+64,source5,id,#8a1402,Jajarkrajan,,Indonesia,2021-02-10T01:44:55,2020-12-29T20:06:12
+65,source1,id,#e81b51,Santa Gertrudes,,Brazil,2020-10-02T13:25:17,2021-05-04T23:58:55
+66,source5,id,#52f53c,Tieli,,China,2021-01-07T00:13:21,2021-08-15T11:42:06
+67,source5,addressID,#839919,Ferreira,16,Portugal,2021-05-01T11:12:24,2021-07-15T09:14:00
+68,source1,id,#b6f8ee,Novikovo,,Russia,2020-09-07T22:46:04,2021-08-11T09:23:27
+69,source4,locationID,#bf6d93,Ladushkin,,Russia,2021-07-28T08:58:41,2021-04-20T01:51:35
+70,source4,addressID,#1efb69,Vysokogornyy,,Russia,2020-10-14T04:05:47,2020-11-07T19:43:03
+71,source2,id,#0df339,Jonava,,Lithuania,2020-09-25T17:10:18,2020-12-26T02:06:41
+72,source1,locationID,#3811ed,Västerås,U,Sweden,2021-04-06T10:32:01,2020-09-30T20:13:54
+73,source2,addressID,#75b0dd,Kizema,,Russia,2021-06-02T10:42:49,2021-07-22T21:26:42
+74,source4,id,#aa49b7,Ōtsuchi,,Japan,2021-04-18T06:04:21,2020-12-25T15:48:10
+75,source5,locationID,#30579b,Dnipryany,,Ukraine,2020-12-01T21:37:10,2021-03-22T04:46:17
+76,source4,addressID,#180229,Yangping,,China,2021-01-14T13:48:51,2020-09-21T07:42:41
+77,source2,locationID,#a48527,Shuangpu,,China,2021-08-15T21:06:45,2021-06-14T15:35:09
+78,source3,locationID,#80d8fb,Tekstil’shchiki,,Russia,2021-08-15T11:48:21,2020-09-10T19:19:18
+79,source4,locationID,#9f9d60,Pilot Butte,SK,Canada,2021-01-01T09:45:29,2021-01-28T07:37:06
+80,source1,id,#d6fb27,Bela Vista,,Brazil,2021-06-18T18:11:14,2021-08-02T02:28:54
+81,source4,locationID,#26309d,Sebu,,Philippines,2020-11-23T14:46:08,2020-10-11T00:13:13
+82,source5,id,#1ce96a,Citundun,,Indonesia,2020-11-06T13:39:21,2021-03-31T16:59:18
+83,source1,locationID,#58113c,Xai-Xai,,Mozambique,2020-09-26T20:35:36,2020-11-19T16:48:39
+84,source2,id,#fda0d6,Jiuxian,,China,2021-04-15T14:16:27,2020-11-22T22:03:23
+85,source2,addressID,#646d1e,Agustín Codazzi,,Colombia,2021-04-30T21:24:26,2020-09-23T03:14:05
+86,source1,locationID,#e05f40,General Pico,,Argentina,2021-07-12T11:00:07,2021-06-01T06:27:10
+87,source2,id,#07a0e5,Runting,,Indonesia,2021-05-24T08:16:37,2020-09-16T07:58:22
+88,source5,addressID,#3c30e5,Sapataria,11,Portugal,2020-09-14T10:53:40,2020-08-29T15:49:22
+89,source1,addressID,#8c1c8d,Jingu,,China,2020-10-01T13:42:25,2021-07-18T19:29:57
+90,source4,addressID,#fa05c5,Catriel,,Argentina,2020-12-22T13:58:36,2020-09-06T13:10:36
+91,source2,id,#bb99b0,Wissembourg,C1,France,2021-07-18T23:42:38,2020-08-29T09:07:20
+92,source4,id,#f9a0f7,Gaocun,,China,2021-03-15T00:28:11,2020-12-15T22:26:59
+93,source3,addressID,#9e7cf6,Tiling,,Philippines,2021-01-08T10:12:55,2021-04-11T06:50:18
+94,source1,id,#0216c6,Gereykhanovskoye,,Russia,2021-07-12T08:40:46,2020-12-25T12:43:55
+95,source1,addressID,#5041c7,Guanay,,Bolivia,2021-05-06T04:32:54,2021-08-10T09:39:03
+96,source3,id,#358ff3,Buynichy,,Belarus,2020-11-11T18:31:25,2021-03-22T10:41:04
+97,source3,id,#de66a6,Mishima,,Japan,2021-04-23T21:57:15,2021-02-15T09:44:42
+98,source4,locationID,#62da2b,Krajan Dua Sumbersari,,Indonesia,2021-05-06T19:34:32,2021-01-23T04:40:22
+99,source2,addressID,#215ebd,Maastricht,5,Netherlands,2020-09-30T01:20:16,2020-11-26T10:06:38
+100,source3,addressID,#47602d,Pomiechówek,,Poland,2021-03-28T07:12:21,2021-07-03T06:52:30
+101,source4,locationID,#f4ccba,Lüyang,,China,2021-06-04T07:09:06,2021-04-30T18:39:55
+102,source5,locationID,#4e2f4b,Hukvaldy,,Czech Republic,2021-02-20T05:14:04,2021-01-06T02:00:57
+103,source3,locationID,#6ccfb6,Bilajer,,Azerbaijan,2020-09-26T17:54:29,2020-11-18T18:56:15
+104,source2,id,#1118da,Sambungjaya,,Indonesia,2020-09-19T04:20:13,2021-02-14T15:31:35
+105,source1,locationID,#6404f4,Manique de Baixo,11,Portugal,2020-09-29T22:48:07,2021-07-16T22:44:19
+106,source5,addressID,#c5121c,Takedamachi,,Japan,2021-03-06T19:06:05,2021-05-11T23:12:13
+107,source4,locationID,#b17d15,Sanjie,,China,2021-07-24T10:27:31,2021-08-06T08:00:55
+108,source4,addressID,#ec7575,Karangtawar,,Indonesia,2021-01-04T22:25:18,2021-04-02T07:53:46
+109,source5,id,#02bd87,Niedźwiada,,Poland,2021-03-27T10:37:06,2021-03-29T19:01:02
+110,source3,locationID,#aa6c4b,Irákleion,,Greece,2021-05-05T08:30:27,2020-12-08T10:51:57
+111,source3,id,#a2c32c,K’olīto,,Ethiopia,2021-08-15T21:38:25,2021-07-13T12:20:14
+112,source3,locationID,#2cc9d3,Wierzawice,,Poland,2020-09-05T15:41:24,2021-04-20T22:21:23
+113,source1,addressID,#e1cdd3,Gafanha de Aquém,1,Portugal,2021-03-29T21:09:36,2020-11-04T07:31:47
+114,source1,locationID,#ee5f8c,Lubichowo,,Poland,2020-08-29T17:01:30,2021-07-27T13:39:23
+115,source4,locationID,#1c1efc,Daban,,China,2020-10-01T16:34:49,2021-06-27T06:47:07
+116,source3,locationID,#f7994a,Aix-en-Provence,B8,France,2020-08-23T11:40:12,2021-01-08T06:55:57
+117,source5,locationID,#791957,Kunduz,,Afghanistan,2021-03-16T17:29:45,2020-10-06T09:28:39
+118,source4,addressID,#1fdb9f,Dahao,,China,2021-07-04T12:06:19,2020-09-30T19:28:21
+119,source3,id,#1acb84,Tejen,,Turkmenistan,2021-05-19T09:42:59,2021-05-05T20:56:16
+120,source4,id,#7a6a56,Pantukan,,Philippines,2020-09-29T02:13:19,2021-04-04T15:58:20
+121,source3,addressID,#f1ff8d,Pittsburgh,PA,United States,2021-07-11T01:39:26,2020-08-23T21:41:02
+122,source3,addressID,#bed776,Causip,,Philippines,2021-07-13T10:52:57,2020-09-14T11:49:11
+123,source4,id,#6c4fe0,Noginsk,,Russia,2021-08-11T07:52:40,2020-09-14T17:45:31
+124,source3,id,#a82a31,Lanchkhuti,,Georgia,2021-04-02T17:22:24,2021-04-03T02:50:19
+125,source5,addressID,#a6f091,Kosai-shi,,Japan,2020-10-20T16:58:22,2021-06-24T22:59:26
+126,source5,locationID,#aaa84e,"Villa Presidente Frei, Ñuñoa, Santiago, Chile",,Chile,2021-07-26T09:31:36,2020-11-30T03:22:11
+127,source1,id,#4f1be6,Mandalay,,Myanmar,2021-06-25T02:29:52,2020-09-05T16:56:07
+128,source1,id,#12eab3,Kukuna,,Sierra Leone,2020-11-11T23:07:19,2020-10-08T02:13:46
+129,source5,addressID,#7c65a9,Castanheira,16,Portugal,2021-04-12T21:52:52,2021-02-13T06:13:38
+130,source5,addressID,#a562f6,Mosteiros,12,Portugal,2021-05-09T15:58:14,2021-07-08T16:55:07
+131,source4,addressID,#22ed61,Thành Phố Bà Rịa,,Vietnam,2021-01-24T21:17:07,2021-03-28T09:07:18
+132,source2,locationID,#fe3fa3,Hīsh,,Syria,2021-01-21T18:14:16,2020-10-26T07:35:06
+133,source2,addressID,#1e061a,Tonoshō,,Japan,2021-05-13T21:39:11,2021-07-15T05:21:49
+134,source3,locationID,#ccaff3,Chongwen,,China,2021-01-24T01:00:35,2021-06-08T20:24:31
+135,source2,locationID,#60696c,Pasacao,,Philippines,2020-10-14T15:32:21,2020-11-26T18:12:41
+136,source3,locationID,#ee7726,Laventille,,Trinidad and Tobago,2020-10-17T03:07:48,2020-08-28T00:39:00
+137,source1,locationID,#11eacc,Pañgobilian,,Philippines,2021-01-05T13:07:10,2021-06-12T14:30:04
+138,source1,addressID,#5bdc20,Hudai,,China,2021-01-21T19:13:05,2021-05-19T20:56:04
+139,source2,locationID,#08e4ad,Jinfeng,,China,2021-02-12T07:35:17,2021-06-15T00:47:58
+140,source5,id,#569f86,Niushou,,China,2020-12-19T01:33:07,2020-08-20T21:08:09
+141,source2,id,#1b77fb,Mliwang,,Indonesia,2021-04-18T15:35:55,2020-12-20T23:06:36
+142,source2,locationID,#3b6b5c,Sala,U,Sweden,2021-01-12T01:48:59,2020-08-20T03:40:42
+143,source1,id,#0cfb4a,Almeria,,Philippines,2021-02-16T08:50:53,2021-03-01T14:27:23
+144,source2,locationID,#8eaa5c,Magatos,,Philippines,2021-07-05T13:46:00,2020-10-13T08:18:00
+145,source5,id,#76f739,Zapod,,Albania,2021-05-19T01:40:07,2020-09-01T19:16:24
+146,source3,id,#0c99c9,Sevilla,,Colombia,2021-01-21T03:36:18,2021-03-31T01:57:00
+147,source1,locationID,#2abc2f,Hezuoqiao,,China,2020-11-18T21:14:34,2021-01-31T04:28:20
+148,source2,locationID,#24e3fa,Hekou,,China,2021-06-27T15:17:10,2021-03-31T17:09:04
+149,source3,addressID,#b21535,Turirejo,,Indonesia,2021-02-18T09:02:31,2021-05-11T02:19:29
+150,source1,id,#781ee0,Almafuerte,,Argentina,2021-07-07T13:33:31,2021-06-21T05:31:54
+151,source2,locationID,#b99260,Pirajuí,,Brazil,2021-05-18T09:48:44,2021-04-11T09:25:34
+152,source5,addressID,#a0eb13,Baltimore,MD,United States,2020-12-19T00:52:22,2021-05-15T09:03:11
+153,source1,locationID,#8d5767,Yanwang,,China,2020-11-05T04:31:53,2020-09-01T11:45:54
+154,source5,id,#bd9b7f,Jurovski Dol,,Slovenia,2021-08-11T22:32:55,2021-03-05T08:19:01
+155,source5,addressID,#3a2e2e,Isawa,,Japan,2021-08-09T15:45:47,2020-12-31T09:38:53
+156,source1,addressID,#940b5a,Pali,,Indonesia,2021-06-10T16:19:14,2020-11-17T20:35:33
+157,source2,addressID,#bb2e58,Orhei,,Moldova,2021-08-09T15:24:44,2021-02-12T17:38:03
+158,source4,addressID,#fa0067,Aromashevo,,Russia,2020-09-11T10:11:28,2021-06-15T16:29:28
+159,source4,id,#7a0eec,Thap Khlo,,Thailand,2021-05-24T06:07:06,2021-03-19T02:13:45
+160,source4,locationID,#29010d,Ticaco,,Peru,2021-03-07T21:28:12,2021-06-10T15:26:44
+161,source2,id,#b28864,Cabatuan,,Philippines,2020-09-12T01:08:27,2020-10-21T03:06:33
+162,source5,id,#8a648a,Shuangwang,,China,2020-08-28T05:57:21,2021-04-20T00:43:17
+163,source4,id,#f967ea,Kamárai,,Greece,2021-02-07T09:36:20,2021-01-08T00:18:26
+164,source4,locationID,#bc885d,Boavista,17,Portugal,2021-04-21T20:58:00,2021-08-07T07:59:42
+165,source2,id,#b5f927,Laranganglintong,,Indonesia,2021-05-17T04:25:15,2021-08-17T12:55:07
+166,source2,locationID,#675ccf,Jindong,,China,2021-03-19T03:18:28,2020-11-06T06:35:44
+167,source1,id,#f1f4a1,Yūki,,Japan,2020-11-23T15:20:55,2021-08-03T06:23:03
+168,source5,addressID,#38ae56,Vancouver,WA,United States,2021-01-09T15:46:25,2021-04-09T14:02:55
+169,source5,addressID,#568cdb,Bangad,,Philippines,2020-09-12T04:06:00,2020-09-22T15:58:51
+170,source4,id,#28cd97,Diaoluoshan,,China,2021-07-13T13:06:51,2020-11-19T21:24:21
+171,source3,id,#d77a14,Nadi,,Fiji,2021-03-13T15:38:26,2021-04-01T10:33:44
+172,source3,addressID,#2973bc,Berck,B4,France,2021-06-02T03:08:51,2021-08-08T22:08:11
+173,source4,addressID,#dbff09,Carenang Lor,,Indonesia,2021-02-14T07:00:15,2021-05-29T15:35:11
+174,source5,locationID,#5a91b8,Gaoxiang,,China,2020-11-03T14:47:55,2021-07-04T16:49:40
+175,source5,addressID,#9a8c7b,Zárkos,,Greece,2020-10-27T03:39:58,2021-01-30T11:23:35
+176,source1,id,#ca9fd3,Goundi,,Chad,2020-11-07T16:17:44,2021-08-06T06:14:07
+177,source4,addressID,#083251,Jiulonggang,,China,2021-05-09T13:34:51,2021-04-09T08:20:04
+178,source5,id,#ebc933,Bellavista,VER,Mexico,2021-06-08T04:09:56,2021-02-01T20:30:08
+179,source2,id,#33d0b9,Cali,,Colombia,2021-03-24T06:53:25,2021-03-30T11:57:14
+180,source2,addressID,#8fb9e0,Cidade Velha,,Cape Verde,2020-10-15T14:19:20,2021-03-18T11:46:22
+181,source2,addressID,#0133cc,Xinzhou,,China,2021-02-02T21:44:27,2021-02-20T21:53:05
+182,source2,addressID,#60be8d,Ḩawallī,,Kuwait,2021-03-02T17:29:57,2021-03-25T08:49:35
+183,source4,id,#508309,Arsen’yev,,Russia,2021-01-01T11:10:34,2021-04-12T07:16:35
+184,source1,addressID,#2c1bd6,Cankova,,Slovenia,2021-02-11T00:43:46,2020-08-24T20:13:12
+185,source4,id,#da59dc,Marechal Cândido Rondon,,Brazil,2020-09-28T01:20:44,2021-01-07T17:55:34
+186,source5,addressID,#842fe2,Balite,,Philippines,2020-09-03T20:29:40,2021-03-24T23:14:19
+187,source3,addressID,#fb4ad7,Rustenburg,,South Africa,2021-05-19T22:36:51,2021-05-22T04:11:49
+188,source2,addressID,#698c58,Miān Channūn,,Pakistan,2021-08-03T12:15:15,2020-12-14T10:17:34
+189,source3,locationID,#c3884f,Pawili,,Philippines,2021-01-04T12:13:24,2021-07-25T20:44:09
+190,source2,addressID,#cf8081,Niort,B7,France,2020-08-23T18:41:50,2021-05-31T20:44:54
+191,source3,addressID,#e95afc,Yartsevo,,Russia,2021-03-30T12:31:13,2021-06-26T01:45:11
+192,source5,addressID,#bad395,Baiqi,,China,2021-07-07T03:13:08,2021-06-13T09:36:40
+193,source1,id,#68f5c4,Kramarzówka,,Poland,2021-07-24T13:52:46,2021-04-16T16:59:32
+194,source1,locationID,#39b288,Saraburi,,Thailand,2021-06-22T20:16:33,2021-02-20T23:40:12
+195,source2,locationID,#c4bb55,Masalovka,,Russia,2020-10-18T23:56:40,2021-04-14T14:25:58
+196,source5,addressID,#08d6f6,San Pedro de Lloc,,Peru,2021-01-19T22:27:54,2021-06-23T08:22:19
+197,source5,id,#63d776,Fort Wayne,IN,United States,2020-09-13T00:58:41,2021-08-11T11:45:33
+198,source3,locationID,#8577c1,Tlumačov,,Czech Republic,2020-08-29T00:35:59,2021-04-15T03:36:35
+199,source3,locationID,#c8e5c6,Yaopi,,China,2021-07-25T04:16:40,2020-10-24T07:08:51
+200,source2,locationID,#098201,Zhucun,,China,2020-10-20T08:12:32,2020-08-18T17:36:13
+201,source3,addressID,#8ece99,Mastaiciai,,Lithuania,2021-06-17T12:05:21,2021-08-11T15:04:44
+202,source2,locationID,#a12430,Malakwal City,,Pakistan,2021-03-02T02:42:57,2021-06-16T06:57:12
+203,source1,locationID,#0718e3,Mandal,,Mongolia,2021-08-13T19:40:10,2021-06-24T17:37:59
+204,source4,id,#ad41c6,Pidvolochys’k,,Ukraine,2021-06-01T23:55:09,2021-04-21T22:09:18
+205,source5,addressID,#b24ebd,Tanay,,Philippines,2021-06-05T12:22:14,2021-01-10T22:10:48
+206,source1,addressID,#4a3506,Jepara,,Indonesia,2021-06-28T05:50:38,2020-10-13T12:25:23
+207,source4,addressID,#12303f,Jiaqiao,,China,2021-03-16T18:54:10,2021-02-03T03:15:22
+208,source5,addressID,#a6be63,Kuznechikha,,Russia,2021-08-11T01:23:06,2021-04-23T06:24:11
+209,source2,locationID,#a35675,Bastia,A5,France,2021-07-25T01:17:21,2021-03-01T16:57:28
+210,source2,id,#ebfbbc,Açucena,,Brazil,2021-02-06T07:50:53,2021-05-31T04:18:09
+211,source3,addressID,#e68362,Lurugan,,Philippines,2020-09-10T09:41:37,2020-12-04T23:28:37
+212,source5,addressID,#e984a4,Qiaoshi,,China,2021-04-30T00:49:52,2021-05-14T01:29:07
+213,source5,locationID,#52cc6c,Niopanda,,Indonesia,2020-11-26T04:33:59,2020-10-16T10:39:09
+214,source2,id,#3de47a,Nirasaki,,Japan,2020-12-24T09:47:32,2021-08-08T19:30:49
+215,source1,locationID,#cfbfdc,Tayuan,,China,2020-11-16T12:52:50,2021-02-24T07:49:43
+216,source2,id,#ef0aba,Tlogosadang,,Indonesia,2021-01-09T11:01:05,2020-09-05T08:21:20
+217,source4,id,#5a8f5c,Kotabaru,,Indonesia,2021-07-23T15:48:45,2021-03-28T01:29:06
+218,source5,addressID,#67c7c0,Bistrica pri Tržiču,,Slovenia,2021-02-15T18:06:39,2021-07-26T11:16:15
+219,source3,locationID,#b245f4,Huai Yot,,Thailand,2021-01-03T10:01:07,2021-02-07T12:27:45
+220,source3,id,#7cdd7f,Prosyana,,Ukraine,2021-05-12T12:07:22,2020-10-31T15:13:08
+221,source4,locationID,#33bfab,Bang Kruai,,Thailand,2020-10-29T05:51:30,2020-09-06T17:47:46
+222,source5,id,#272838,Suvorov,,Russia,2020-08-21T00:12:21,2021-05-10T16:21:47
+223,source5,id,#26a851,Bulongji,,China,2021-08-06T07:44:51,2020-09-14T20:57:42
+224,source4,addressID,#064eb6,Bang Kaeo,,Thailand,2021-03-25T05:42:13,2021-08-08T02:22:29
+225,source3,id,#fb4d4e,Zhangcunping,,China,2020-11-15T17:11:57,2020-09-02T09:33:30
+226,source5,addressID,#5da9cb,Shtip,,Macedonia,2020-11-23T09:02:14,2020-11-02T00:53:38
+227,source2,addressID,#47dc09,Bohus,O,Sweden,2020-09-20T04:06:09,2021-05-18T01:12:48
+228,source5,addressID,#3c6240,Jawand,,Afghanistan,2020-11-30T19:39:05,2021-07-22T08:59:25
+229,source5,locationID,#e9c4ce,Bulqizë,,Albania,2020-10-26T21:42:08,2020-12-25T05:19:05
+230,source4,addressID,#7f65ea,Banjar Parekan,,Indonesia,2020-08-31T01:21:37,2021-06-25T14:35:41
+231,source1,locationID,#f9f04d,Wolanów,,Poland,2021-07-21T22:01:49,2021-05-18T13:42:39
+232,source3,id,#3bfbda,Pinhão,,Brazil,2021-05-18T19:44:35,2020-12-07T13:11:31
+233,source1,id,#356003,Layog,,Philippines,2021-02-23T12:42:49,2020-08-22T03:53:31
+234,source4,locationID,#766051,Taywanak Ilaya,,Philippines,2021-04-13T22:41:01,2020-10-14T18:16:52
+235,source4,addressID,#8dad89,Smyshlyayevka,,Russia,2021-07-18T19:46:00,2020-12-29T08:05:31
+236,source1,locationID,#c49dfb,Sete Cidades,42,Portugal,2020-11-22T07:46:29,2020-12-11T12:24:37
+237,source1,addressID,#6740d5,Jawf al Maqbābah,,Yemen,2021-08-17T15:24:18,2021-08-06T05:58:42
+238,source4,addressID,#867231,Portelândia,,Brazil,2020-10-27T12:59:41,2020-08-28T10:16:24
+239,source4,id,#462f4a,Santa Bárbara d'Oeste,,Brazil,2020-08-23T18:53:23,2021-06-23T09:04:12
+240,source2,id,#f51e85,Volgodonsk,,Russia,2020-09-08T05:51:22,2020-09-05T19:57:14
+241,source5,locationID,#550d6d,Prata,,Brazil,2020-08-24T00:03:15,2020-12-17T00:24:01
+242,source5,id,#e0213e,Brodnica,,Poland,2020-11-23T11:18:21,2021-01-01T07:35:35
+243,source1,locationID,#5e8e4d,Chadian,,China,2021-03-16T16:46:26,2020-12-24T22:38:43
+244,source1,id,#fe87f6,Daugavgrīva,,Latvia,2021-07-31T02:34:26,2021-06-29T22:40:43
+245,source4,locationID,#bf0020,Franca,,Brazil,2021-04-06T04:41:13,2020-08-28T18:28:48
+246,source4,id,#29af03,Zaytā Jammā‘īn,,Palestinian Territory,2020-10-23T11:20:24,2021-02-18T10:01:19
+247,source2,addressID,#4df6e5,Benjamín Aceval,,Paraguay,2021-08-12T03:37:23,2021-03-30T08:26:05
+248,source1,addressID,#e0cc24,Meitang,,China,2021-06-09T22:01:25,2020-11-22T05:26:08
+249,source5,id,#302b5a,Oslo,3,Norway,2021-03-31T13:49:28,2021-01-05T11:18:25
+250,source5,locationID,#02ee41,Iwai,,Japan,2021-05-26T11:53:18,2021-07-20T07:51:19
+251,source5,locationID,#a2ae92,Zagórze,,Poland,2021-07-18T02:27:14,2021-03-29T18:26:11
+252,source3,addressID,#bdc4ea,Znamenskoye,,Russia,2021-04-21T11:54:27,2021-03-01T18:54:02
+253,source5,locationID,#f1fd17,Baranów,,Poland,2021-07-11T00:51:43,2020-11-18T18:25:01
+254,source2,id,#3fd765,Yishan,,China,2020-11-18T07:25:30,2020-11-15T23:13:53
+255,source1,locationID,#26460a,Fuvahmulah,,Maldives,2021-03-22T18:47:06,2021-04-07T23:15:12
+256,source4,addressID,#2fab6b,Juvisy-sur-Orge,A8,France,2021-08-03T16:29:41,2021-05-30T15:03:32
+257,source4,locationID,#a51857,Balakasap,,Indonesia,2020-08-19T02:42:13,2021-06-18T12:40:33
+258,source2,locationID,#631629,Linshanhe,,China,2020-10-24T07:24:03,2020-11-10T12:34:24
+259,source3,id,#81140e,Vardablur,,Armenia,2021-03-29T00:51:58,2021-07-31T04:28:46
+260,source2,locationID,#a77605,Lapa,,Brazil,2020-11-23T01:16:12,2021-06-30T12:59:28
+261,source3,addressID,#afe9a3,Ondores,,Peru,2020-11-07T00:56:18,2021-02-28T04:36:14
+262,source4,id,#4ba32e,Chenārān,,Iran,2021-01-07T01:20:20,2021-08-05T10:07:20
+263,source5,id,#af492c,Balatero,,Philippines,2021-01-21T02:33:34,2021-03-26T08:23:50
+264,source1,locationID,#34aa6a,Likhoy,,Russia,2020-10-07T04:15:28,2021-06-19T21:26:38
+265,source4,id,#b4914a,São Paulo de Olivença,,Brazil,2020-10-22T21:32:32,2021-01-17T08:04:56
+266,source4,addressID,#d651ea,Houston,TX,United States,2021-04-12T13:57:08,2021-01-14T05:38:47
+267,source2,id,#ea0a85,Dovhe,,Ukraine,2021-07-18T06:08:28,2021-04-19T13:02:46
+268,source4,locationID,#ca75cc,Meilin,,China,2021-04-28T11:38:40,2021-01-11T04:25:59
+269,source4,addressID,#3761c4,Lugar Novo,3,Portugal,2021-03-18T04:01:23,2020-08-31T20:49:21
+270,source1,id,#f1a047,Červená Voda,,Czech Republic,2020-09-28T08:20:49,2020-08-31T03:05:18
+271,source4,locationID,#85ea40,São Luís de Montes Belos,,Brazil,2021-01-29T18:21:04,2021-05-18T15:24:36
+272,source3,addressID,#14b0e6,Armanāz,,Syria,2020-09-29T13:16:32,2021-03-10T16:05:15
+273,source1,locationID,#2436e3,Muyaka,,Indonesia,2021-02-07T12:43:53,2021-02-11T21:49:14
+274,source2,addressID,#ce529f,Xiwanzi,,China,2021-01-11T19:06:48,2021-01-13T19:46:23
+275,source2,addressID,#d20250,Semampir,,Indonesia,2021-05-25T13:47:30,2020-09-13T04:57:42
+276,source5,locationID,#5dfc4f,Köln,NW,Germany,2021-03-25T07:38:01,2021-03-15T16:53:48
+277,source3,id,#61c9c0,Saint-Claude,A6,France,2021-02-24T07:49:57,2021-06-04T22:43:54
+278,source4,addressID,#c0b1bc,Mpraeso,,Ghana,2021-04-01T12:26:56,2020-10-14T23:18:40
+279,source5,id,#fff4fa,Katrineholm,D,Sweden,2021-01-30T22:33:31,2021-02-24T00:05:23
+280,source2,id,#ac29b8,Nanaimo,BC,Canada,2021-07-20T02:09:34,2021-06-11T00:10:27
+281,source2,addressID,#b6b42e,Tunjë,,Albania,2020-09-18T02:22:07,2020-12-02T16:46:34
+282,source3,locationID,#acd370,Moyamba,,Sierra Leone,2021-07-26T00:52:36,2020-10-13T17:35:11
+283,source2,id,#c2da6f,Karanglo,,Indonesia,2021-06-03T18:52:34,2021-01-31T05:07:51
+284,source3,addressID,#18a158,Kapuan,,Indonesia,2021-02-09T23:10:31,2021-05-25T12:07:26
+285,source2,addressID,#a6168e,Xiaoruo,,China,2021-01-02T20:20:58,2020-11-29T16:55:12
+286,source1,addressID,#d851b7,Lenger,,Kazakhstan,2021-07-08T05:00:43,2020-08-26T18:11:49
+287,source2,locationID,#80437a,Göteborg,O,Sweden,2020-11-01T03:30:26,2021-06-08T20:28:34
+288,source4,addressID,#a8c6ae,Oak Bay,BC,Canada,2021-03-25T18:13:47,2021-01-16T16:38:42
+289,source2,addressID,#bf1378,Al Qiţena,,Sudan,2021-06-21T20:24:24,2020-11-09T22:58:46
+290,source3,locationID,#f8e7d0,Thanatpin,,Myanmar,2021-02-06T23:41:42,2021-08-14T20:56:47
+291,source1,addressID,#263e66,Zolotkovo,,Russia,2021-01-12T23:57:09,2020-09-19T17:11:23
+292,source4,locationID,#6bb4b8,Pszczew,,Poland,2020-09-29T16:31:26,2020-10-05T22:51:53
+293,source1,locationID,#dd8a4d,San Juan,,Philippines,2021-01-27T03:27:01,2021-07-10T22:31:10
+294,source1,addressID,#7bf633,Pamplona/Iruña,NC,Spain,2021-03-03T11:50:49,2021-01-24T22:19:18
+295,source5,id,#7f1484,Memphis,TN,United States,2021-08-07T02:55:02,2021-03-16T08:12:59
+296,source4,locationID,#5a304c,Wanjia,,China,2021-01-22T10:40:31,2021-04-02T20:53:24
+297,source5,locationID,#f059cd,Lysogorskaya,,Russia,2021-05-21T15:20:54,2021-06-25T15:29:35
+298,source5,id,#2765c0,São Mateus,,Brazil,2020-09-27T16:52:06,2021-08-01T00:33:34
+299,source4,id,#3fbeb9,Radocza,,Poland,2020-11-15T02:22:33,2021-06-16T03:49:06
+300,source3,id,#9ed3f4,Bayantal,,Mongolia,2021-03-28T12:10:01,2021-05-09T03:13:24
+301,source4,id,#98b21e,Markala,,Mali,2020-10-27T22:19:55,2020-12-15T11:17:20
+302,source4,id,#47401b,Enriquillo,,Dominican Republic,2020-10-27T14:04:40,2021-02-04T12:06:38
+303,source1,locationID,#f3c455,Paciran,,Indonesia,2021-03-26T05:52:01,2021-08-11T23:55:03
+304,source2,locationID,#e29dfa,Cilegong,,Indonesia,2021-01-10T12:42:20,2020-11-14T14:45:34
+305,source2,id,#e8652c,Santa Paz,,Philippines,2021-05-24T04:54:37,2020-12-21T12:31:11
+306,source5,id,#a11e63,Maliana,,East Timor,2021-04-21T10:07:10,2020-12-04T08:52:26
+307,source4,id,#bb9ab6,Yipeng,,China,2021-01-11T11:42:04,2021-04-17T04:37:29
+308,source4,locationID,#1f8db2,Sawaengha,,Thailand,2021-08-11T17:27:06,2021-05-20T20:34:20
+309,source4,locationID,#c5625c,Bogatynia,,Poland,2021-01-27T21:22:38,2021-07-10T08:42:27
+310,source3,addressID,#9549e2,Hidalgo,COA,Mexico,2021-08-03T03:54:55,2021-02-16T09:30:01
+311,source4,addressID,#c0b73d,West Palm Beach,FL,United States,2020-12-04T18:27:16,2021-01-02T22:40:19
+312,source2,id,#59fe43,Villefranche-sur-Mer,B8,France,2021-07-05T00:13:03,2021-06-08T07:04:05
+313,source1,addressID,#ad65d6,Nagqu,,China,2021-04-04T14:36:05,2021-04-28T18:15:31
+314,source3,locationID,#25bf67,Siwalan,,Indonesia,2021-02-22T09:47:43,2020-10-03T16:29:40
+315,source2,addressID,#decf33,Mauloo,,Indonesia,2021-06-09T15:20:07,2020-11-10T16:02:07
+316,source5,id,#3b5792,Nanbao,,China,2021-05-27T21:40:17,2021-05-13T11:35:02
+317,source2,addressID,#192db7,Yanjiao,,China,2021-04-02T11:53:38,2020-12-04T22:39:11
+318,source2,id,#242c0e,Salmi,,Russia,2021-02-03T17:55:44,2020-10-22T19:58:40
+319,source4,addressID,#1825d5,Rebrikha,,Russia,2020-10-08T20:56:04,2020-09-06T17:28:13
+320,source3,locationID,#e166f0,Kunduz,,Afghanistan,2021-05-07T00:32:40,2020-12-28T03:33:04
+321,source4,id,#228eb5,Pujijie,,China,2021-06-29T07:45:27,2021-04-23T08:21:32
+322,source5,id,#1b5421,Ōmiya,,Japan,2021-02-12T02:13:45,2021-02-16T18:00:03
+323,source3,locationID,#640c9d,Patao,,Philippines,2021-04-04T18:18:46,2021-05-19T21:54:17
+324,source3,addressID,#95d4de,Providence,RI,United States,2020-12-25T06:27:48,2020-11-23T01:17:09
+325,source1,addressID,#986fd4,Recreio,,Brazil,2021-05-27T16:39:04,2021-01-12T10:24:10
+326,source1,addressID,#0d24d4,Pamoyanan,,Indonesia,2021-07-22T05:35:07,2020-08-22T19:55:52
+327,source2,locationID,#df7393,Niba,,China,2021-03-10T10:48:01,2020-09-17T12:32:21
+328,source1,locationID,#272baf,Al Manqaf,,Kuwait,2020-09-29T11:17:05,2021-06-19T05:40:37
+329,source4,locationID,#19f097,Sāh,,Yemen,2020-12-21T09:25:27,2021-01-13T22:38:43
+330,source5,locationID,#063a85,Shreveport,LA,United States,2020-08-27T14:37:56,2021-05-14T17:46:04
+331,source1,id,#887778,Ágios Athanásios,,Greece,2021-08-12T07:57:25,2020-09-12T03:35:38
+332,source2,locationID,#d74157,Muhoroni,,Kenya,2020-09-04T23:17:44,2021-06-27T06:16:02
+333,source2,addressID,#2f3fc4,Batibati,,Indonesia,2020-08-28T04:39:21,2021-08-04T03:59:38
+334,source5,locationID,#a5ecfe,Brzeszcze,,Poland,2020-10-12T11:59:55,2021-06-14T13:41:24
+335,source2,addressID,#d9c663,Cikomara,,Indonesia,2020-11-02T10:44:05,2021-02-13T02:32:02
+336,source3,locationID,#c89a1f,Montreuil,A8,France,2020-11-06T17:42:24,2021-05-06T16:36:59
+337,source3,id,#9c9573,Obong,,Philippines,2021-02-03T16:58:15,2020-12-18T16:08:56
+338,source2,addressID,#a553d8,Río Hondo,,Guatemala,2021-06-27T04:57:22,2021-03-08T15:46:08
+339,source1,id,#c7a688,Myshkin,,Russia,2020-11-06T21:56:29,2020-10-03T23:48:31
+340,source2,id,#b21b23,Karasuyama,,Japan,2021-07-13T14:15:22,2020-10-15T19:31:47
+341,source2,addressID,#74b01e,Przyborów,,Poland,2020-12-14T04:49:16,2021-07-10T13:53:16
+342,source3,addressID,#b657fa,Shibukawa,,Japan,2020-12-11T22:54:33,2021-05-10T08:45:26
+343,source1,locationID,#1b0ee0,Baishi,,China,2021-06-11T13:05:02,2021-03-19T05:42:59
+344,source2,locationID,#7c1f2a,Baoxu,,China,2021-02-08T13:24:42,2020-10-15T01:07:46
+345,source2,id,#33b880,Straldzha,,Bulgaria,2021-08-17T22:36:21,2021-07-29T00:43:00
+346,source3,locationID,#347ffd,Kokas,,Indonesia,2020-10-30T13:22:00,2020-11-08T13:58:09
+347,source2,locationID,#992699,Sępólno Krajeńskie,,Poland,2021-06-18T22:33:38,2021-05-19T04:56:09
+348,source5,addressID,#112224,Delvinë,,Albania,2021-02-02T07:16:09,2021-07-11T12:42:01
+349,source3,locationID,#1f230c,Jianfeng,,China,2021-05-09T20:22:41,2021-03-06T20:40:32
+350,source4,addressID,#18db8b,Agía Varvára,,Greece,2021-06-28T19:09:16,2021-03-10T02:14:45
+351,source2,locationID,#d10d7a,Citeluk,,Indonesia,2021-04-01T19:39:56,2021-08-14T02:26:17
+352,source1,locationID,#369df8,Caxias,,Brazil,2020-10-11T13:15:22,2021-05-29T18:47:56
+353,source5,locationID,#db6211,Marisol,15,Portugal,2021-04-11T14:49:25,2021-01-13T02:05:17
+354,source3,id,#71ee7b,Changhan,,Thailand,2020-11-15T17:34:04,2020-12-28T12:38:21
+355,source2,locationID,#f8d049,Lakki Marwat,,Pakistan,2021-03-10T11:34:00,2021-07-18T06:22:29
+356,source5,id,#a2df71,Luján de Cuyo,,Argentina,2021-06-18T07:24:00,2021-01-18T22:20:01
+357,source1,id,#57646f,Marmárion,,Greece,2021-04-02T04:45:59,2021-04-13T03:52:19
+358,source5,locationID,#947b86,Gostyń,,Poland,2021-06-24T18:06:00,2020-11-11T03:39:17
+359,source1,id,#697f1e,Mugi,,Russia,2020-10-18T18:30:15,2021-06-08T13:02:03
+360,source1,addressID,#d776ce,Salakuray,,Indonesia,2020-11-10T03:24:53,2021-07-25T06:07:22
+361,source3,locationID,#c81d38,Otan Aiyegbaju,,Nigeria,2021-05-31T20:09:06,2021-07-05T11:35:02
+362,source2,locationID,#64a39c,Topeka,KS,United States,2021-01-27T17:01:50,2020-10-12T05:34:40
+363,source2,locationID,#581d72,Mene de Mauroa,,Venezuela,2021-03-29T04:27:07,2021-01-03T06:28:42
+364,source4,addressID,#acbd50,Ozerki,,Russia,2020-09-08T11:38:14,2020-08-22T03:50:15
+365,source2,addressID,#eb430a,Castelli,,Argentina,2021-01-06T18:25:03,2020-10-02T21:49:43
+366,source3,id,#41dc19,Wenping,,China,2021-06-28T02:45:55,2020-09-22T19:12:45
+367,source5,id,#479be6,Lyon,B9,France,2021-06-04T03:07:53,2021-01-03T20:30:39
+368,source5,addressID,#5ecfae,Jīsh,,Israel,2021-05-12T01:27:59,2021-02-23T13:22:34
+369,source3,addressID,#8f74a1,Āsasa,,Ethiopia,2021-05-31T16:03:19,2021-04-19T18:40:49
+370,source2,locationID,#f7a7c0,Guadalupe,MIC,Mexico,2021-01-04T00:11:26,2021-06-02T02:31:00
+371,source4,addressID,#9ab78d,Yubileyny,,Russia,2021-03-27T22:33:34,2021-01-17T10:50:59
+372,source2,addressID,#c537d6,Hancheng,,China,2021-01-14T03:25:42,2021-07-26T00:00:36
+373,source5,locationID,#96f536,Söderhamn,X,Sweden,2020-11-27T13:43:04,2021-06-05T22:55:01
+374,source5,addressID,#f0dd6c,Sandao,,China,2021-07-08T13:49:09,2021-02-24T21:55:56
+375,source1,id,#d6b7ce,Raszowa,,Poland,2021-01-04T01:51:10,2021-02-19T22:38:39
+376,source3,addressID,#1ffdef,Krajan,,Indonesia,2020-12-16T16:28:39,2021-02-05T22:31:10
+377,source2,locationID,#2836f4,Kowalewo Pomorskie,,Poland,2021-03-07T13:06:42,2021-06-19T23:23:15
+378,source1,addressID,#b35623,Kristianstad,M,Sweden,2021-05-13T07:31:34,2021-04-04T06:42:58
+379,source1,id,#a8b836,Biruinţa,,Moldova,2021-06-03T19:19:36,2021-06-12T02:38:15
+380,source3,id,#c00049,Živinice,,Bosnia and Herzegovina,2020-08-19T07:59:08,2021-04-27T19:52:53
+381,source5,addressID,#35c170,Bireun,,Indonesia,2020-11-16T09:31:22,2021-02-19T18:16:26
+382,source2,addressID,#78d2c9,Gonābād,,Iran,2021-07-28T21:23:39,2020-09-24T12:24:50
+383,source5,addressID,#007cc7,Kołbiel,,Poland,2021-05-04T11:22:56,2021-06-05T17:58:06
+384,source2,addressID,#2be897,Baicheng,,China,2020-12-12T14:16:09,2021-03-14T19:19:58
+385,source5,locationID,#a96fbe,Paço,16,Portugal,2021-01-28T19:27:47,2021-05-24T22:45:07
+386,source2,addressID,#1191d6,Bafoussam,,Cameroon,2020-10-19T13:17:42,2021-05-26T15:48:54
+387,source3,id,#2214ad,Chigorodó,,Colombia,2020-10-02T08:38:24,2021-04-13T09:36:42
+388,source5,addressID,#4bd877,Kambatatamakawu,,Indonesia,2021-05-12T16:42:17,2020-09-24T16:45:27
+389,source1,addressID,#338972,Borik,,Indonesia,2020-11-22T20:12:20,2020-11-06T02:28:25
+390,source3,addressID,#739eb1,Liuheng,,China,2020-10-06T15:11:48,2021-03-05T00:53:19
+391,source2,addressID,#d829c9,Shīrvān,,Iran,2021-03-22T15:47:43,2021-04-14T18:56:28
+392,source2,locationID,#ca4567,Lingkou,,China,2021-01-06T04:17:15,2020-11-09T21:07:25
+393,source5,addressID,#0f7a71,Al ‘Āqir,,Yemen,2021-01-28T03:44:03,2020-10-18T21:24:19
+394,source3,locationID,#250d87,Pangalangan,,Indonesia,2021-01-18T15:31:58,2021-04-03T08:43:51
+395,source2,id,#327bff,Kotuń,,Poland,2020-12-14T03:55:36,2020-11-20T04:23:06
+396,source1,addressID,#6a562b,Safi,,Jordan,2020-11-29T03:20:13,2021-05-21T01:18:49
+397,source3,addressID,#4335ec,Oebaki,,Indonesia,2021-07-20T21:37:42,2021-06-05T19:01:35
+398,source5,addressID,#07e474,Haysyn,,Ukraine,2021-07-09T17:05:22,2021-05-08T16:33:28
+399,source1,id,#66b5f4,Huangdimiao,,China,2021-02-17T10:01:48,2021-07-27T19:50:20
+400,source5,locationID,#f20ade,Tuwa,,Indonesia,2021-01-10T09:33:47,2020-12-14T14:53:15
+401,source4,addressID,#1383ba,Västervik,H,Sweden,2020-08-25T14:44:48,2020-08-29T02:32:40
+402,source2,locationID,#13bea0,Rumboci,,Bosnia and Herzegovina,2020-12-12T12:23:12,2021-04-03T09:57:39
+403,source1,id,#5d9e82,Chengkan,,China,2021-01-09T10:01:50,2020-12-04T01:43:00
+404,source1,addressID,#4c97b8,Beylagan,,Azerbaijan,2020-12-02T01:32:56,2020-11-09T07:06:30
+405,source3,addressID,#21cc61,Chicago,IL,United States,2020-09-26T08:17:39,2021-02-07T16:11:55
+406,source1,locationID,#8c5610,Tagoloan,,Philippines,2020-11-17T18:42:22,2021-04-11T22:24:53
+407,source3,addressID,#19040d,Caleta Olivia,,Argentina,2021-04-15T16:42:04,2021-01-22T08:28:56
+408,source2,id,#d64edd,Estância,,Brazil,2021-07-09T09:54:31,2021-02-02T06:36:40
+409,source4,addressID,#1af2ca,Kafue,,Zambia,2021-01-30T00:02:53,2020-12-24T13:15:38
+410,source2,id,#b10e58,Lethem,,Guyana,2020-10-06T19:12:59,2021-01-13T14:05:27
+411,source3,addressID,#25bf84,Nikol’sk,,Russia,2021-01-27T00:40:20,2020-09-10T05:08:42
+412,source1,id,#041736,Budënnovsk,,Russia,2020-09-15T12:13:21,2021-04-19T20:07:58
+413,source4,addressID,#0bc71c,Verkhnevilyuysk,,Russia,2021-03-24T02:17:50,2021-04-09T06:24:53
+414,source5,addressID,#f46749,Bente,,Indonesia,2021-02-12T11:12:29,2021-03-04T02:28:36
+415,source3,locationID,#39e97a,Fátima,14,Portugal,2021-04-04T11:55:22,2021-08-08T00:34:31
+416,source3,addressID,#88c73f,Habingkloang,,Indonesia,2021-08-09T09:03:14,2021-01-27T09:15:53
+417,source3,addressID,#9bd529,Magok,,Indonesia,2021-02-02T17:24:12,2020-12-18T13:53:20
+418,source1,locationID,#cb305d,Itanhandu,,Brazil,2020-12-06T16:28:04,2020-12-30T02:16:38
+419,source5,locationID,#db8100,Perehonivka,,Ukraine,2021-02-16T17:39:53,2020-10-09T23:30:37
+420,source3,id,#eb5b2b,Niedercorn,,Luxembourg,2020-10-23T21:10:37,2020-09-16T18:42:38
+421,source2,id,#ecad13,Österbybruk,C,Sweden,2020-11-26T05:58:17,2021-05-27T14:06:16
+422,source2,addressID,#227d3b,Sult,,Albania,2020-11-26T01:37:09,2020-09-03T04:08:30
+423,source4,id,#9f43fa,Nikol’sk,,Russia,2020-09-19T15:37:17,2021-01-09T20:29:58
+424,source4,locationID,#eb0425,Dorogobuzh,,Russia,2021-01-18T18:32:34,2020-09-26T14:42:58
+425,source5,locationID,#1b2913,Austin,TX,United States,2021-05-31T09:43:15,2021-05-31T23:03:03
+426,source2,locationID,#f9be4b,Krasnogorodskoye,,Russia,2021-03-14T02:24:54,2020-12-26T08:12:23
+427,source5,addressID,#578abe,Rancabuaya,,Indonesia,2021-01-21T00:58:37,2021-08-05T03:10:28
+428,source4,id,#83c3c9,Obando,,Colombia,2020-09-15T10:06:58,2020-10-27T00:03:11
+429,source3,locationID,#688d65,Fornos,4,Portugal,2020-11-14T12:49:49,2020-10-01T11:46:42
+430,source2,locationID,#abd1df,Chejiazhuang,,China,2021-04-10T03:05:58,2021-03-09T15:33:53
+431,source2,locationID,#f2d01e,Foxton,,New Zealand,2021-05-21T02:34:05,2020-09-03T15:35:42
+432,source1,locationID,#3f5035,Lidingö,AB,Sweden,2021-04-04T15:06:03,2021-03-18T12:06:19
+433,source4,id,#0ec36b,Sainte-Martine,QC,Canada,2021-02-26T06:25:03,2021-04-05T15:08:43
+434,source3,locationID,#74d338,Barrancabermeja,,Colombia,2020-10-07T02:48:15,2021-02-06T20:57:45
+435,source1,id,#31d549,Kalipare,,Indonesia,2020-10-01T13:56:10,2021-02-06T19:25:59
+436,source5,id,#d0ca64,Tilamuta,,Indonesia,2021-08-14T07:58:20,2021-02-18T01:25:19
+437,source2,locationID,#047f72,Bunol,,Philippines,2021-07-07T23:52:54,2021-04-16T05:58:21
+438,source5,id,#a765eb,Nelidovo,,Russia,2020-12-06T06:25:16,2021-01-09T10:25:58
+439,source1,addressID,#eeb28a,Pakuwon,,Indonesia,2021-07-29T14:17:28,2021-06-29T23:06:17
+440,source5,addressID,#66c3e2,Patnongon,,Philippines,2021-04-21T13:56:42,2021-07-20T17:21:04
+441,source4,id,#109c9b,Portarlington,,Ireland,2021-07-08T23:11:59,2020-11-24T15:50:02
+442,source3,locationID,#96b31c,Margoyoso,,Indonesia,2021-04-06T17:06:18,2021-07-05T14:37:42
+443,source1,locationID,#0a962f,Lajeosa do Mondego,9,Portugal,2021-06-02T15:54:30,2021-07-20T19:10:41
+444,source2,locationID,#7c203d,Budagovo,,Russia,2021-07-01T08:49:53,2020-08-21T22:17:44
+445,source1,locationID,#63b4d8,Banī Khallād,,Tunisia,2020-12-11T03:31:17,2021-05-06T08:40:57
+446,source5,addressID,#8ac50a,Gubukjero Timuk,,Indonesia,2021-05-24T01:45:35,2020-10-11T09:31:18
+447,source1,id,#93b83b,Castlerea,,Ireland,2021-02-27T08:54:30,2021-03-01T12:50:30
+448,source5,id,#9e7e98,Notre-Dame-des-Prairies,QC,Canada,2021-06-22T10:51:37,2021-02-15T21:33:47
+449,source2,id,#063c51,Åkersberga,AB,Sweden,2020-11-13T19:01:16,2020-12-30T09:16:24
+450,source3,id,#eec0b2,Gechuan,,China,2021-07-04T21:44:22,2021-02-21T13:39:38
+451,source5,locationID,#6aa9fe,Fengshan,,China,2020-10-23T06:24:41,2020-10-29T15:49:54
+452,source3,id,#ff07bc,Yanggu,,South Korea,2020-11-22T07:04:17,2021-04-22T04:03:54
+453,source2,locationID,#5c4cc2,Chuncheng,,China,2021-06-06T01:24:30,2021-02-16T06:46:50
+454,source2,id,#c44af0,Mar’ina Roshcha,,Russia,2020-11-08T11:09:55,2021-04-27T09:48:21
+455,source4,locationID,#cabff3,Lampang,,Thailand,2020-08-31T08:59:53,2021-05-19T16:04:25
+456,source5,locationID,#5fb358,Imbituba,,Brazil,2021-04-05T19:24:49,2021-03-21T11:26:51
+457,source5,addressID,#6a468f,Kuragaki-kosugi,,Japan,2020-11-15T20:22:08,2020-09-26T18:38:12
+458,source4,addressID,#08ed5b,Yishi,,China,2021-07-11T09:56:25,2021-03-17T19:17:04
+459,source5,locationID,#ac441b,Yolöten,,Turkmenistan,2020-09-22T15:10:44,2020-12-18T00:24:16
+460,source2,id,#23fcc7,Guazapa,,El Salvador,2020-11-07T04:21:10,2020-12-22T19:37:54
+461,source4,locationID,#e05f11,Cambita Garabitos,,Dominican Republic,2021-03-23T21:47:35,2021-07-08T23:51:18
+462,source3,locationID,#28e396,Tây Hồ,,Vietnam,2021-08-06T23:27:23,2021-05-24T03:25:09
+463,source1,addressID,#ef226e,Ibaté,,Brazil,2020-11-12T11:33:22,2020-10-10T15:50:44
+464,source1,addressID,#21ad3c,Xinyang,,China,2021-02-16T22:41:08,2020-12-06T02:41:52
+465,source2,id,#2c6b71,Zagórze,,Poland,2021-07-13T23:32:09,2021-02-25T02:11:53
+466,source1,id,#ad39de,Byuravan,,Armenia,2020-08-26T03:22:54,2020-10-23T08:45:28
+467,source4,addressID,#ca09d9,Leloboko,,Indonesia,2021-03-10T10:48:47,2020-11-14T21:28:00
+468,source3,locationID,#ebf736,Koksovyy,,Russia,2021-02-20T04:35:11,2021-07-23T17:28:08
+469,source4,addressID,#5ff9b4,Ngkiong,,Indonesia,2021-05-07T21:49:42,2020-08-28T04:29:22
+470,source1,addressID,#0af079,Datong,,China,2020-10-25T19:13:11,2021-04-18T13:00:45
+471,source3,locationID,#c81426,Damāvand,,Iran,2021-05-23T22:02:05,2020-09-16T09:46:09
+472,source5,locationID,#bb4ef7,Águas Vermelhas,,Brazil,2021-01-05T05:44:40,2020-10-26T05:53:09
+473,source1,locationID,#c45367,Vary,,Ukraine,2020-09-13T19:20:56,2021-04-27T06:27:53
+474,source5,addressID,#c21030,Descalvado,,Brazil,2021-01-07T02:40:18,2021-02-25T09:26:03
+475,source5,id,#b7f68e,Vysehrad,,Czech Republic,2021-07-12T19:47:23,2021-04-08T16:05:56
+476,source2,id,#f26573,Nyahururu,,Kenya,2021-03-15T15:48:54,2021-07-06T13:50:05
+477,source1,locationID,#1f1014,Jaciara,,Brazil,2020-12-11T11:18:47,2021-05-01T03:26:24
+478,source3,addressID,#b4ea9e,Bakhmach,,Ukraine,2021-05-15T10:04:12,2021-04-24T06:48:28
+479,source2,id,#fe5246,Nungwi,,Tanzania,2021-08-17T22:24:01,2020-08-21T11:18:58
+480,source4,id,#cb3723,Fāraskūr,,Egypt,2021-03-19T10:45:55,2021-03-11T01:48:41
+481,source2,locationID,#4a71fd,Kozelets’,,Ukraine,2021-04-28T17:48:38,2021-03-08T01:43:28
+482,source2,locationID,#a46267,San José,,Costa Rica,2021-01-18T10:34:54,2021-05-05T10:01:28
+483,source4,id,#4dc9ff,Gentilly,A8,France,2021-04-22T07:02:41,2021-03-27T17:29:47
+484,source2,id,#1c1a8e,Megati Kelod,,Indonesia,2020-12-26T05:02:57,2020-12-21T06:21:08
+485,source1,id,#50dc36,Tierra y Libertad,CHP,Mexico,2020-10-06T05:22:01,2020-12-14T01:30:03
+486,source3,locationID,#c0503e,Pisão,6,Portugal,2021-04-25T06:33:20,2021-03-16T08:45:42
+487,source5,locationID,#dc8ed0,Sastöbe,,Kazakhstan,2020-09-07T23:02:59,2021-08-10T07:31:40
+488,source5,locationID,#8a7bcc,Tanashichō,,Japan,2021-05-22T04:38:20,2021-04-28T10:17:58
+489,source5,locationID,#2c6ef4,Armenia,,Colombia,2020-10-01T05:17:31,2020-11-10T13:47:12
+490,source3,addressID,#b7325c,Tianmuhu,,China,2021-01-06T14:02:01,2020-09-20T17:23:21
+491,source1,id,#9b025c,Zhenlong,,China,2021-05-26T02:40:24,2020-10-02T19:44:44
+492,source2,id,#e69ae4,Andrijevica,,Montenegro,2020-11-18T00:09:57,2020-09-05T03:58:50
+493,source5,id,#4e834e,Jawl al Majma‘,,Yemen,2020-09-05T21:37:12,2021-08-03T16:05:48
+494,source1,id,#18e2a3,Konstantynów,,Poland,2020-10-29T13:41:30,2021-01-23T01:01:13
+495,source2,id,#9f2969,Kagawasan,,Philippines,2021-02-23T02:53:17,2020-11-20T11:17:21
+496,source3,locationID,#74c1fc,Carpina,,Brazil,2021-04-25T11:10:04,2020-12-02T06:16:42
+497,source2,id,#af040d,Al Jawf,,Libya,2021-04-11T19:50:36,2020-11-26T23:47:57
+498,source1,locationID,#6313a5,Las Flores,OAX,Mexico,2021-05-12T08:12:05,2020-11-18T15:30:53
+499,source3,locationID,#9a0ff2,Lavaltrie,QC,Canada,2021-07-06T00:03:47,2021-01-03T17:18:58
+500,source1,addressID,#25597e,Ronfe,3,Portugal,2020-11-12T07:36:44,2021-06-25T12:47:04
